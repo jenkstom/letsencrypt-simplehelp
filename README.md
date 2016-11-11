@@ -24,6 +24,7 @@ used in the script ($mypass). Once it is loaded initially you should
 be able to forget about it and let this script updated the keystore
 via cron.
 
-
+NOTE: The newer version (4.4) of the SimpleHelp server will support
+letsencrypt certificates directly. So this is probably a temporary fix.
 
 
